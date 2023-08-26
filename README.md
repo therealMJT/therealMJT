@@ -1,5 +1,5 @@
 ### hi 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mjt-21)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjt-21" alt="mjt-21 streak" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjt-21)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjt-21&show_icons=true&locale=en&layout=compact" alt="mjt-21 top languages" /></p>
